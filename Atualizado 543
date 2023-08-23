@@ -76,7 +76,7 @@ http://208.115.225.174:14192/
 http://84.17.44.179:14635/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NETGEO GEOGRAPHIC
-http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/439.m3u8
+http://superblazertop.com.br.global.prod.fastly.net:80/live/natgeowild/play2.m3u8?token=1692851704_c98e03d688fbf17610f43becfe50e3ae2d9cf49a
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria", NETGEO GEOGRAPHIC
 http://7go.xyz:8080/556799391192/xxzsaw25106/183639
@@ -97,7 +97,7 @@ http://megablaze.com.global.prod.fastly.net:80/live/discoverychannel/play2.m3u8?
 http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/318.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY
-http://megablaze.com.global.prod.fastly.net:80/live/discoverychannel/play2.m3u8
+http://superblazertop.com.br.global.prod.fastly.net:80/live/discoverychannel/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E
 http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8   
@@ -146,6 +146,9 @@ http://45.58.126.146:14273/
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 1
 http://45.58.126.146:14281/
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 1
+http://superblazertop.com.br.global.prod.fastly.net:80/live/history/play2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 1
 http://187.95.95.243:80/History/tracks-v1a1/mono.m3u8
@@ -217,10 +220,10 @@ http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16716
 http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16725
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR  CHANNEL
-http://45.58.126.146:14329/ 
+http://23.237.108.18:9999/stream/406c025753c07f199e1902d4855c1d40fc8dfae7aa9fc973f5bdd6d5d3ceb9c1/chunks.m3u8?nimblesessionid=3549469&ticket=eb8d850b252e74879349e484bf56da60
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR CHANNEL 
-http://212.102.60.39:2200/BRX/Star_Channel_HD/tracks-v1a1/mono.m3u8
+http://45.58.126.146:14329/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MEGAPIX
 http://45.58.126.146:14317/megapix
@@ -490,3 +493,6 @@ https://www.googleapis.com/drive/v3/files/1joVIC6zSDPvhDiWTnE5YfTuD7yiTxYud?alt=
 
 #EXTINF:-1 tvg-logo="" group-title="",Street Fhigterdublado
 https://www.googleapis.com/drive/v3/files/1-43Js92V8mY7sjLIspj9iR8Kt_BaAus7?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
+#EXTINF:-1 tvg-logo="" group-title="",CAMINHOS DAS ÍNDIAS 
+http://169.197.124.122:23818/vod/AE69AED75C4146C7830DA3A30AC1D01E_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D169.197.124.122:23818%26app_id%3Dcom.global.ycweb%26trans_id%3Dx5xq19F2LAAX_NffdyxosvKJT%26app_version%3D20001%26client_ip%3D45.179.28.86%26dev_id%3D4b999d56faf6e49e233b27a9025d4be5%26auth_id%3D217756780_com.global.ycweb_cloud-c2-redis_0%26user_id%3D217756780%26expired%3D1692761033%26token%3Dea3cae61d7a5710df967f75bdfb3f0b1&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.ycweb%26media_code%3DAE69AED75C4146C7830DA3A30AC1D01E%26expired%3D1692761033%26token%3D7b8f3e86179026947586cc4d99914f3c
