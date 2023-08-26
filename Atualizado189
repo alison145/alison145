@@ -55,7 +55,7 @@ http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31560.ts
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria", TRUTV 
-http://appserv28.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/541?token=ShZcWRELFQxDB1YPU1ANXFdTAVABUgMGUQFVUVRQAwQDVgAPBwYOUlFHThRCQktdVFhoWlwRDwAAAUlDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDAYGUlgOAQAbE0RdXEBZFQNYXVcUHRRcQEFQRV1ZX2pRUUYMAlIRDllEWFgUQAxZaQUAD1dfUhsCFwUVHxpaRkUWCgsUW18YFVNdQEoDF1IUW0dQAwMGGxQXVlhGVkdHTBYKRyNlERgVVExAXQwQXlkPR1gURUUbFBdcRGxKVkZBRlUEDFJBFg0TBBYUQA5WTj4GDVhfU1pMXFpZQBoJFwEWHEcMWF1dQ15Ga0gLBxUMQ1RbAwUEG0U=
+http://appserv28.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/541?token=ShZcWRELFQxDUwMCV1VfXgYHAwJbV1YBUQZXVgBQBwIHDVJZBwIOA1dHThRCQktdVFhoWlwRDwAAAUlDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDAYIUVUHBwEbE0RdXEBZFQRRU1oBExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABAQADBoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0dTDwQCCxpI
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria", TRUTV 
 http://xcui.vitvabc.xyz:8880//live/DQ-NOVO500/ziqDdRRQ6c/31627.m3u8
@@ -73,13 +73,13 @@ http://199.127.60.83:16192/
 http://208.115.225.174:14192/
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria", NETGEO GEOGRAPHIC
-http://84.17.44.179:14635/
+http://superblazertop.com.br.global.prod.fastly.net:80/live/natgeowild/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NETGEO GEOGRAPHIC
-http://superblazertop.com.br.global.prod.fastly.net:80/live/natgeowild/play2.m3u8?token=1692851704_c98e03d688fbf17610f43becfe50e3ae2d9cf49a
+http://superblazertop.com.br.global.prod.fastly.net:80/live/natgeowild/play2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sem Categoria", NETGEO GEOGRAPHIC
-http://7go.xyz:8080/556799391192/xxzsaw25106/183639
+http://84.17.44.179:14635/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", NETGEO WILD
 http://7go.xyz:8080/556799391192/xxzsaw25106/22589
@@ -91,7 +91,7 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/18754
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY
-http://megablaze.com.global.prod.fastly.net:80/live/discoverychannel/play2.m3u8?token=1691603457_0698fced8a54a1fbb2c96b2957a13bc8d7c3fc4b
+http://superblazertop.com.br.global.prod.fastly.net:80/live/discoverychannel/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY
 http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/318.m3u8
@@ -115,7 +115,7 @@ http://45.58.126.146:14258/
 http://45.58.126.146:14258/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY ID
-http://megablaze.com.global.prod.fastly.net:80/live/idinvestigacaodiscovery/play2.m3u8?token=1691603457_a4aa059f7a88fd5c96fa24b08ebd1ea80fd71537
+http://superblazertop.com.br.global.prod.fastly.net:80/live/idinvestigacaodiscovery/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIO", DISCOVERY theater 
 http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/322.m3u8
@@ -127,13 +127,13 @@ http://45.58.126.146:14267/
 http://45.58.126.146:14273/
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO
-http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16711
+http://superblazertop.com.br.global.prod.fastly.net:80/live/discoveryturbo/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY ciência 
 http://66.90.68.66:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/121?Play&token=GRJeVUEJEF9BVQYAXQxXUVRTUgNeCwFTAF0BDlcLVlZaAQUNV1cDAVEWHUFLTBFQAw87DwIaXwALVEkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JeXw1QBgFQVBsXQwxXQAoUBwFRAEdPFlQbTF0RWwMOOwIDTgxSXEdfWUBfCR9AX1hrVgRfBA1QE1kaCEEZQAsXFkQCC0RVCUkVV1oRQQNEUxYIQwNdVAITTxpbDEAMFhYfRAJHc2tHSRVQSxFWDENfW1xDCEcXRxNPGlEQahAHFxIUXQRcXBdHDRcDRx9AXVdMbQJdCw1RUhdRVw1GQFhGV1YIVQEJR0kVWFwLWhZfRGtCCFZHWRYAVgAAUhcf
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H
-http://turoisherego.xyz:2095//live/Tourobox1-rNmvClP8V4/saaO9xsStT/432.m3u8
+http://superblazertop.com.br.global.prod.fastly.net:80/live/homehealth/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H
 http://megablaze.com.global.prod.fastly.net:80/live/homehealth/play2.m3u8
@@ -231,6 +231,9 @@ http://45.58.126.146:14317/megapix
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3G1uj05tGDUvPb8elWRMQw8-oYO_1me1r2A&usqp=CAU" group-title="Sem Categoria", SPACE
 http://45.58.126.146:14323/
 
+#EXTINF:-1 tvg-logo="" group-title="Sem Categoria", SPACE
+http://superblazertop.com.br.global.prod.fastly.net:80/live/space/play2.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SESSÃO CINE
 http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1761453494.m3u8?ROGERIOTORRES
 
@@ -252,14 +255,20 @@ http://megablaze.com.global.prod.fastly.net:80/live/hbo2/play2.m3u8?token=169160
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN
 http://66.90.85.74:8080/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/181?token=GRJeVUEJEF9BUgkGCQBTBAZTBlYACAdSXAMAUwELVAYDCVBRAVJWBlMWHUFLTBFQAw87DwIaXwABVEkVQEAAQT1ZUhYIQwFUQRgTF1FVBhdYU1JfVw1SCA9TXRsXQwxXQAoUBgJUA1VBGBMGQEwGRwwDCDkCXRNYWgBHDVtGCV9OEllabQVXCAJaVUECGlMXTkANFRYaX19MCQkbF1EMRxBRQlEQWxBWUgEEQRQaAFoXDBAUHxpfE3s3RxsXVh1HB15FXV0PEF9BQEJBFBoKRj0QARUSSgBQVAAXFQ8RVRFOEltVSj5RCg1aVABMUQxbEUBeRFQNVQEJR0kVWFwLWhZfRGtCCFZHWRYHUA4NQUg=
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria",FX
+http://superblazertop.com.br.global.prod.fastly.net:80/live/fx/play2.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT
-http://212.102.60.39:2200/BRX/TNT__1_HD/tracks-v1a1/mono.m3u8
+http://superblazertop.com.br.global.prod.fastly.net:80/live/tnt/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT HD
 http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SERIE
 http://45.58.126.146:14345/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SERIE
+http://superblazertop.com.br.global.prod.fastly.net:80/live/tntseries/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SPORT
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -268,16 +277,13 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 http://187.95.95.243:80/paramount/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2
-http://megablaze.com.global.prod.fastly.net:80/live/hbo2/play2.m3u8
+http://superblazertop.com.br.global.prod.fastly.net:80/live/hbo2/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO POP
 http://7go.xyz:8080/556799391192/xxzsaw25106/42930
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO
-http://190.171.101.36:80/HBO/tracks-a2/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO XTREME
-http://7go.xyz:8080/556799391192/xxzsaw25106/18745
+http://superblazertop.com.br.global.prod.fastly.net:80/live/hbo/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO XTREME
 http://7go.xyz:8080/556799391192/xxzsaw25106/22555
@@ -306,8 +312,14 @@ http://megablaze.com.global.prod.fastly.net:80/live/telecinepremium/play2.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PIPOCA 
 http://megablaze.com.global.prod.fastly.net:80/live/telecinepipoca/play2.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PIPOCA 
+http://superblazertop.com.br.global.prod.fastly.net:80/live/telecinepipoca/play2.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE ACTION
 http://megablaze.com.global.prod.fastly.net:80/live/telecineaction/play2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE ACTION
+http://superblazertop.com.br.global.prod.fastly.net:80/live/telecineaction/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINEMAX. 
 http://212.102.60.39:2200/BRX/Cinemax_HDPLUS/tracks-v1a1/mono.m3u8
@@ -394,16 +406,16 @@ http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/60f5fabf0721880007c
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f4fb4cf605ddf000748e16f/997452/playlist.m3u8?terminate=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&deviceDNT=0&deviceModel=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=true&appName=web&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&appVersion=unknown&deviceType=web&deviceMake=Chrome
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BLOOBO
-http://megablaze.com.global.prod.fastly.net:80/live/gloob/play2.m3u8
+http://superblazertop.com.br.global.prod.fastly.net:80/live/gloob/play2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria",CARTOON NETWORK 
-http://megablaze.com.global.prod.fastly.net:80/live/cartoonnetwork/play2.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria",CARTOON NETWORK
+http://fadder.eletrinho.shop:2095/live/cartoonnetwork/chunks.m3u8 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria",DISCOVERY KIDS
-http://megablaze.com.global.prod.fastly.net:80/live/discoverykids/play2.m3u8
+http://superblazertop.com.br.global.prod.fastly.net:80/live/discoverykids/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria",NICKELODEON 
-http://megablaze.com.global.prod.fastly.net:80/live/nickelodeon/play2.m3u8
+http://superblazertop.com.br.global.prod.fastly.net:80/live/nickelodeon/play2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIME
 http://195.181.163.140:80/series/FhFBsN9J9V/factoryiptv/76621.mp4?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQFVAgZUTUAWElRFaFpTEg4aUVcAAA8DWhYfEkwNCFFBDFICAlNTW1tUAAQbEUdZUBpZRgMLDwdbFh8SXRwRURFYAlhrAQQUCgJUFQ0RFRwWVw07Vl1aVQxQEQoaVEcYQV8QRBZfDxcPDR0VVVpDQlVMBkYIGgUCUAIRHBoHCkENQhFNFl9DIDFDHRVSS0NVWksKC1waDRYPRAcSFEYMRzxEBkdAFwQDDgRDFQ0RBxIYGg4FSmdUWwxaVlNMDQpaEBRZFgZHTUAODl9eQ1xFb0RRB0YIVkJYDkk=
@@ -494,5 +506,5 @@ https://www.googleapis.com/drive/v3/files/1joVIC6zSDPvhDiWTnE5YfTuD7yiTxYud?alt=
 #EXTINF:-1 tvg-logo="" group-title="",Street Fhigterdublado
 https://www.googleapis.com/drive/v3/files/1-43Js92V8mY7sjLIspj9iR8Kt_BaAus7?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="" group-title="",CAMINHOS DAS ÍNDIAS 
-http://169.197.124.122:23818/vod/AE69AED75C4146C7830DA3A30AC1D01E_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D169.197.124.122:23818%26app_id%3Dcom.global.ycweb%26trans_id%3Dx5xq19F2LAAX_NffdyxosvKJT%26app_version%3D20001%26client_ip%3D45.179.28.86%26dev_id%3D4b999d56faf6e49e233b27a9025d4be5%26auth_id%3D217756780_com.global.ycweb_cloud-c2-redis_0%26user_id%3D217756780%26expired%3D1692761033%26token%3Dea3cae61d7a5710df967f75bdfb3f0b1&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.ycweb%26media_code%3DAE69AED75C4146C7830DA3A30AC1D01E%26expired%3D1692761033%26token%3D7b8f3e86179026947586cc4d99914f3c
+#EXTINF:-1 tvg-logo="" group-title="",chamado da floresta 
+https://2371755324.tapecontent.net/radosgw/xqX3Mxa7x2hkRXD/sSl5D5ls4b4bWLWltAmnfVhRXi_wy1qhX69Fpr519V9wHg-vOt_MvJ1bJ8aNUJIsNZqCelgKYQ-SpVVyuRPcAJGk_aKG6eoer8Ns254SIZ_mwax9yXkeStfetSc33d8mZm227mBoLcjTQv-BNWG5sgHAV3Oh5JRaUwpopYFTJMoucezsKL7QAShVuCmmk7W8KR2DFzQJehe5wgqGKz7Kc1d7eiRsm53R1bwv22BPMo-bdlbPXR_ofNzKTnIIUlmFa7RAFBl9ZjoYI8aJCR1y1_7fJUAFvB4cAO2x_jiWFRJahHgLhGmR4ODa36s/O.Chamado.da.Floresta.2020%5BFilmesmp4.com%5D.mkv.mp4?stream=1
